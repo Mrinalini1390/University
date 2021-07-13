@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">University</string>
+
+    <!--splash-->
+
+    <string name="splash_name">Virtusa Universities</string>
+
+   <!--login-->
+    <string name="login_header">Welcome to Virtusa Universities</string>
+    <string name="login_button">Login</string>
+
+
+
+</resources>
